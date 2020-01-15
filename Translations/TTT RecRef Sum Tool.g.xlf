@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TTT RecRef Sum Tool">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1396966342 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RecRef Sum TTT-MSRRS - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1396966342 - Field 823559016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RecRef Sum TTT-MSRRS - Field Field Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1396966342 - Field 3502818357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RecRef Sum TTT-MSRRS - Field Sum - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1396966342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RecRef Sum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RecRef Sum TTT-MSRRS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4288758837 - Action 3995846961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1887905131">
+          <source>Sum</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension General Ledger Entry TTT-MSRRS - Action Sum TTT-MSRRS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4288758837 - Action 3995846961 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1887905131">
+          <source>Shows sum of all relevant fields within active filters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension General Ledger Entry TTT-MSRRS - Action Sum TTT-MSRRS - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
